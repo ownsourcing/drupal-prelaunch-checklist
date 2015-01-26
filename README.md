@@ -9,7 +9,7 @@
 
 - aggregate css and js
 - cache views
-- 
+- blah
 
 ## Other caching layer settings
 
