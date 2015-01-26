@@ -17,13 +17,15 @@
 
 ### Display static site as failover
 
-## Related on Acquia
+## Review the following and add to this checklist
+
+### Acquia
 - Prelaunch checklist for Drupal sites https://docs.acquia.com/articles/pre-launch-check-list
 - blah
 
-## Related on Pantheon
+### Pantheon
 
-## Related on d.o
+### d.o
 - Checklist for launching a site (brief but worthwhile) https://www.drupal.org/node/1076460
 - Checklist for migrating to a new server https://www.drupal.org/node/333675
 - Taking your site live (meh: again too big) https://www.drupal.org/node/135206
